@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Lesson19</string>
+    <string name="breakfast_">Kiamsha Kinywa.</string>
+    <string name="dinner_">Chagio.</string>
+    <string name="food_">Chakula.</string>
+    <string name="lunch_">Chakula cha mchana.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="action_settings">paramètres.</string>
+    <string name="breakfast_">Déjeuner.</string>
+    <string name="dinner_">Dîner.</string>
+    <string name="food_">Aliments.</string>
+    <string name="lunch_">Déjeuner.</string>
+
+</resources>
